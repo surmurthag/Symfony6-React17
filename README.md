@@ -19,7 +19,9 @@ $ cd Symfony6-React17
 $ composer require symfony/webpack-encore-bundle webapp symfony/apache-pack
 
 # npm package manager
-npm i react@17.0.2 react-dom@17.0.2 prop-types@15.6.2 --save
+$ npm i react@17.0.2 react-dom@17.0.2 prop-types@15.6.2 --save
+
+$  npm install @babel/preset-react@^7.0.0 --save-dev
 
 $ npm run dev-server
 
