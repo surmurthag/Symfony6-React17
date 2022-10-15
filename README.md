@@ -12,9 +12,9 @@ Je vais vous expliquer étape par étape ci-dessous comment obtenir une applicat
 Installez [Symfony binaire](https://symfony.com/download) ,  puis: [node js ](https://nodejs.org/en/download/)
 
 # Créer une application Symfony dans le répertoire symfony-react
-$ composer create-project symfony/skeleton:"6.1.*" Symfony6_React
+$ composer create-project symfony/skeleton:"6.1.*" Symfony6_React17
 
-$ cd Symfony6-React
+$ cd Symfony6-React17
 
 $ composer require symfony/webpack-encore-bundle webapp symfony/apache-pack
 
